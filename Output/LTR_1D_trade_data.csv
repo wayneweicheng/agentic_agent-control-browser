@@ -1,0 +1,161 @@
+Date,Buyer,Price,Seller,Value,Volume,Condition,Market
+04/03/2025 10:04:30,CMC Markets,$0.6300,FinClear Execution,$2,912,4,622,,ASX
+04/03/2025 10:04:30,CMC Markets,$0.6300,Morgan Stanley Securities,$220,350,,ASX
+04/03/2025 10:04:30,CMC Markets,$0.6300,UBS Securities,$307,488,,ASX
+04/03/2025 10:04:30,CMC Markets,$0.6300,UBS Securities,$989,1,570,,ASX
+04/03/2025 10:04:30,CMC Markets,$0.6300,UBS Securities,$12,600,20,000,,ASX
+04/03/2025 10:04:30,CMC Markets,$0.6300,Barclays Capital,$9,688,15,378,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,Interactive Brokers,$34,020,54,000,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,J.P. Morgan,$309,490,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,Morgan Stanley Securities,$101,160,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,Morgan Stanley Securities,$738,1,171,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,Morgan Stanley Securities,$6,300,10,000,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,UBS Securities,$2,735,4,342,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,UBS Securities,$6,715,10,658,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,UBS Securities,$12,381,19,652,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,UBS Securities,$15,750,25,000,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,UBS Securities,$28,350,45,000,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,Barclays Capital,$481,764,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,Barclays Capital,$8,712,13,829,,ASX
+04/03/2025 10:04:30,Commonwealth Securities,$0.6300,Barclays Capital,$39,527,62,742,,ASX
+04/03/2025 10:04:30,FinClear Execution,$0.6300,Barrenjoey,$12,311,19,541,,ASX
+04/03/2025 10:04:30,FinClear Execution,$0.6300,UBS Securities,$35,564,56,451,,ASX
+04/03/2025 10:04:30,FinClear Execution,$0.6300,Goldman Sachs,$7,726,12,264,,ASX
+04/03/2025 10:04:30,J.P. Morgan,$0.6300,Barrenjoey,$1,2,,ASX
+04/03/2025 10:04:30,J.P. Morgan,$0.6300,Barrenjoey,$327,519,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,Barrenjoey,$318,504,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,FinClear Execution,$8,418,13,362,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,Macquarie Securities,$1,008,1,600,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,Macquarie Securities,$9,308,14,774,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,Morgan Stanley Securities,$2,332,3,701,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,Morgan Stanley Securities,$17,251,27,382,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,UBS Securities,$3,549,5,633,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,UBS Securities,$10,804,17,150,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,Citigroup,$1,1,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,Citigroup,$3,4,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,Citigroup,$156,248,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,Citigroup,$248,393,,ASX
+04/03/2025 10:04:30,Merrill Lynch,$0.6300,Barclays Capital,$4,789,7,601,,ASX
+04/03/2025 10:04:30,Wealthhub,$0.6300,Barclays Capital,$1,260,2,000,,ASX
+04/03/2025 10:04:35,FinClear Execution,$0.6300,CMC Markets,$408,648,,ASX
+04/03/2025 10:04:45,Goldman Sachs,$0.6350,UBS Securities,$156,246,C100,CXA
+04/03/2025 10:04:49,J.P. Morgan,$0.6350,UBS Securities,$1,782,2,807,C100,CXA
+04/03/2025 10:05:29,Commonwealth Securities,$0.6350,Merrill Lynch,$8,317,13,098,,ASX
+04/03/2025 10:05:29,Commonwealth Securities,$0.6350,Merrill Lynch,$13,144,20,700,,ASX
+04/03/2025 10:05:29,Commonwealth Securities,$0.6350,Morgan Stanley Securities,$10,288,16,202,,ASX
+04/03/2025 10:05:29,Merrill Lynch,$0.6350,Merrill Lynch,$3,119,4,912,XT,ASX
+04/03/2025 10:05:45,Commonwealth Securities,$0.6350,Merrill Lynch,$13,144,20,700,,ASX
+04/03/2025 10:06:15,CMC Markets,$0.6350,Merrill Lynch,$3,314,5,219,,ASX
+04/03/2025 10:06:15,CMC Markets,$0.6350,UBS Securities,$46,648,73,462,,ASX
+04/03/2025 10:06:15,Commonwealth Securities,$0.6350,UBS Securities,$12,256,19,300,,ASX
+04/03/2025 10:06:15,J.P. Morgan,$0.6350,Merrill Lynch,$7,11,,ASX
+04/03/2025 10:06:15,Merrill Lynch,$0.6350,UBS Securities,$4,596,7,238,,ASX
+04/03/2025 10:06:15,Morgan Stanley Securities,$0.6350,Merrill Lynch,$1,777,2,798,,ASX
+04/03/2025 10:06:15,UBS Securities,$0.6350,Merrill Lynch,$17,462,27,500,,ASX
+04/03/2025 10:06:16,Morrison,$0.6350,UBS Securities,$229,360,C100,CXA
+04/03/2025 10:06:16,Morrison,$0.6350,UBS Securities,$5,443,8,572,C100,CXA
+04/03/2025 10:06:30,Morrison,$0.6350,Merrill Lynch,$678,1,068,,ASX
+04/03/2025 10:06:39,CMC Markets,$0.6300,CMC Markets,$6,300,10,000,XT,ASX
+04/03/2025 10:07:47,CMC Markets,$0.6300,Citigroup,$6,299,9,999,,ASX
+04/03/2025 10:07:47,CMC Markets,$0.6300,Citigroup,$25,194,39,990,,ASX
+04/03/2025 10:07:47,J.P. Morgan,$0.6300,Citigroup,$7,11,,ASX
+04/03/2025 10:08:55,AIEX,$0.6300,UBS Securities,$18,900,30,000,,ASX
+04/03/2025 10:08:55,CMC Markets,$0.6300,Interactive Brokers,$74,731,118,621,,ASX
+04/03/2025 10:08:55,Commonwealth Securities,$0.6300,Interactive Brokers,$25,200,40,000,,ASX
+04/03/2025 10:08:55,Commonwealth Securities,$0.6300,UBS Securities,$9,999,15,871,,ASX
+04/03/2025 10:08:55,Commonwealth Securities,$0.6300,UBS Securities,$25,200,40,000,,ASX
+04/03/2025 10:08:55,FinClear Execution,$0.6300,Interactive Brokers,$1,438,2,282,,ASX
+04/03/2025 10:08:55,FinClear Execution,$0.6300,UBS Securities,$956,1,518,,ASX
+04/03/2025 10:08:55,Merrill Lynch,$0.6300,Interactive Brokers,$18,091,28,716,,ASX
+04/03/2025 10:08:55,Morgan Stanley Securities,$0.6300,Interactive Brokers,$3,403,5,402,,ASX
+04/03/2025 10:08:55,Goldman Sachs,$0.6300,Interactive Brokers,$3,137,4,979,,ASX
+04/03/2025 10:08:55,Macquarie Securities,$0.6300,UBS Securities,$9,15,C100,CXA
+04/03/2025 10:08:55,Merrill Lynch,$0.6300,UBS Securities,$1,965,3,119,C100,CXA
+04/03/2025 10:08:55,Goldman Sachs,$0.6300,UBS Securities,$3,158,5,012,C100,CXA
+04/03/2025 10:09:01,Merrill Lynch,$0.6300,UBS Securities,$17,325,27,500,,ASX
+04/03/2025 10:09:29,Merrill Lynch,$0.6275,UBS Securities,$1,307,2,083,CX,ASX
+04/03/2025 10:09:29,Jefferies,$0.6300,Merrill Lynch,$17,325,27,500,,ASX
+04/03/2025 10:09:29,Jefferies,$0.6300,UBS Securities,$4,095,6,500,,ASX
+04/03/2025 10:09:29,Jefferies,$0.6300,UBS Securities,$41,580,66,000,,ASX
+04/03/2025 10:10:21,CMC Markets,$0.6300,Barrenjoey,$830,1,317,C100,CXA
+04/03/2025 10:11:02,Goldman Sachs,$0.6300,Commonwealth Securities,$536,850,C100,CXA
+04/03/2025 12:35:24,Macquarie Securities,$0.6300,UBS Securities,$2,142,3,400,,ASX
+04/03/2025 12:35:24,Macquarie Securities,$0.6300,UBS Securities,$16,300,25,873,,ASX
+04/03/2025 12:35:24,Merrill Lynch,$0.6300,UBS Securities,$327,519,,ASX
+04/03/2025 12:35:24,Merrill Lynch,$0.6300,UBS Securities,$30,555,48,500,,ASX
+04/03/2025 12:35:24,Morrison,$0.6300,UBS Securities,$4,021,6,383,,ASX
+04/03/2025 12:35:24,Morrison,$0.6300,UBS Securities,$6,300,10,000,,ASX
+04/03/2025 12:35:24,Morrison,$0.6300,UBS Securities,$17,640,28,000,,ASX
+04/03/2025 12:35:24,UBS Securities,$0.6300,UBS Securities,$4,6,XT,ASX
+04/03/2025 12:35:24,UBS Securities,$0.6300,UBS Securities,$7,11,XT,ASX
+04/03/2025 12:35:24,Citigroup,$0.6300,UBS Securities,$4,725,7,500,,ASX
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$92,146,,ASX
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$93,148,,ASX
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$94,150,,ASX
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$149,237,,ASX
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$170,270,,ASX
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$188,298,,ASX
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$217,345,,ASX
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$2,923,4,639,,ASX
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$2,958,4,696,,ASX
+04/03/2025 12:35:24,Nine Mile,$0.6300,UBS Securities,$1,239,1,966,,ASX
+04/03/2025 12:35:24,Macquarie Securities,$0.6300,UBS Securities,$5,8,C100,CXA
+04/03/2025 12:35:24,Macquarie Securities,$0.6300,UBS Securities,$31,49,C100,CXA
+04/03/2025 12:35:24,Macquarie Securities,$0.6300,UBS Securities,$67,106,C100,CXA
+04/03/2025 12:35:24,Macquarie Securities,$0.6300,UBS Securities,$113,179,C100,CXA
+04/03/2025 12:35:24,Macquarie Securities,$0.6300,UBS Securities,$210,334,C100,CXA
+04/03/2025 12:35:24,Macquarie Securities,$0.6300,UBS Securities,$506,803,C100,CXA
+04/03/2025 12:35:24,Macquarie Securities,$0.6300,UBS Securities,$1,935,3,072,C100,CXA
+04/03/2025 12:35:24,Morgan Stanley Securities,$0.6300,Virtu Financial,$3,4,C100,CXA
+04/03/2025 12:35:24,Morrison,$0.6300,UBS Securities,$1,890,3,000,C100,CXA
+04/03/2025 12:35:24,Morrison,$0.6300,UBS Securities,$2,049,3,252,C100,CXA
+04/03/2025 12:35:24,Morrison,$0.6300,UBS Securities,$3,150,5,000,C100,CXA
+04/03/2025 12:35:24,Morrison,$0.6300,UBS Securities,$6,300,10,000,C100,CXA
+04/03/2025 12:35:24,Morrison,$0.6300,UBS Securities,$13,860,22,000,C100,CXA
+04/03/2025 12:35:24,UBS Securities,$0.6300,UBS Securities,$1,1,C100,CXA
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$8,12,C100,CXA
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$40,64,C100,CXA
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$64,101,C100,CXA
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$71,113,C100,CXA
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$73,116,C100,CXA
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$81,128,C100,CXA
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$93,147,C100,CXA
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$3,062,4,861,C100,CXA
+04/03/2025 12:35:24,Goldman Sachs,$0.6300,UBS Securities,$3,096,4,914,C100,CXA
+04/03/2025 12:35:25,AIEX,$0.6250,Macquarie Securities,$130,208,,ASX
+04/03/2025 12:35:25,AIEX,$0.6250,Macquarie Securities,$138,220,,ASX
+04/03/2025 12:35:25,AIEX,$0.6250,Jefferies,$6,764,10,822,,ASX
+04/03/2025 12:35:25,J.P. Morgan,$0.6275,J.P. Morgan,$1,296,2,066,NXXT,ASX
+04/03/2025 12:35:25,Macquarie Securities,$0.6300,Merrill Lynch,$4,6,,ASX
+04/03/2025 12:35:25,Macquarie Securities,$0.6300,UBS Securities,$346,549,,ASX
+04/03/2025 12:35:25,Macquarie Securities,$0.6300,Goldman Sachs,$3,174,5,038,,ASX
+04/03/2025 12:35:25,UBS Securities,$0.6300,Goldman Sachs,$348,553,,ASX
+04/03/2025 12:35:25,J.P. Morgan,$0.6275,J.P. Morgan,$940,1,498,C100,CXA
+04/03/2025 12:35:25,Morrison,$0.6275,J.P. Morgan,$222,354,C100,CXA
+04/03/2025 12:35:26,AIEX,$0.6250,Merrill Lynch,$1,2,,ASX
+04/03/2025 12:35:26,AIEX,$0.6250,UBS Securities,$892,1,428,,ASX
+04/03/2025 12:35:26,Morrison,$0.6275,J.P. Morgan,$1,033,1,646,C100,CXA
+04/03/2025 12:35:26,Goldman Sachs,$0.6250,J.P. Morgan,$632,1,012,C100,CXA
+04/03/2025 12:35:26,Goldman Sachs,$0.6250,UBS Securities,$4,7,C100,CXA
+04/03/2025 12:35:29,AIEX,$0.6250,UBS Securities,$99,158,,ASX
+04/03/2025 12:35:29,AIEX,$0.6250,Goldman Sachs,$529,847,,ASX
+04/03/2025 12:35:29,Goldman Sachs,$0.6250,UBS Securities,$3,5,C100,CXA
+04/03/2025 12:35:30,AIEX,$0.6250,Citigroup,$3,911,6,257,,ASX
+04/03/2025 12:35:30,CMC Markets,$0.6250,Macquarie Securities,$19,31,,ASX
+04/03/2025 12:35:30,CMC Markets,$0.6250,Merrill Lynch,$2,4,,ASX
+04/03/2025 12:35:30,CMC Markets,$0.6250,UBS Securities,$9,14,,ASX
+04/03/2025 12:35:30,CMC Markets,$0.6250,Citigroup,$999,1,599,,ASX
+04/03/2025 12:35:30,CMC Markets,$0.6250,Citigroup,$1,340,2,144,,ASX
+04/03/2025 12:35:30,Commonwealth Securities,$0.6250,Citigroup,$18,750,30,000,,ASX
+04/03/2025 12:35:30,Wealthhub,$0.6250,Citigroup,$6,250,10,000,,ASX
+04/03/2025 12:35:30,Goldman Sachs,$0.6250,UBS Securities,$1,2,C100,CXA
+04/03/2025 12:35:31,CMC Markets,$0.6250,Jefferies,$11,129,17,807,,ASX
+04/03/2025 12:35:31,Merrill Lynch,$0.6250,Macquarie Securities,$9,15,,ASX
+04/03/2025 12:35:31,Merrill Lynch,$0.6250,Jefferies,$5,297,8,475,,ASX
+04/03/2025 12:35:37,Merrill Lynch,$0.6250,Jefferies,$966,1,546,,ASX
+04/03/2025 12:35:49,Goldman Sachs,$0.6250,Morgan Stanley Securities,$769,1,230,C100,CXA
+04/03/2025 12:35:49,Goldman Sachs,$0.6250,UBS Securities,$2,4,C100,CXA
+04/03/2025 12:36:08,Merrill Lynch,$0.6250,Morrison,$6,679,10,687,,ASX
+04/03/2025 12:36:08,Goldman Sachs,$0.6250,Merrill Lynch,$1,2,,ASX
+04/03/2025 12:36:08,Goldman Sachs,$0.6250,Morrison,$2,696,4,313,,ASX
+04/03/2025 12:36:09,CMC Markets,$0.6250,J.P. Morgan,$24,38,,ASX
